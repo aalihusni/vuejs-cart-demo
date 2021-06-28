@@ -7,7 +7,9 @@
     "serve": "vite preview --port 8081"
   },
   "dependencies": {
-    "vue": "^3.0.5"
+    "rxjs": "^6.6.7",
+    "vue": "^3.0.5",
+    "vue-rx": "^6.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.2.3",
